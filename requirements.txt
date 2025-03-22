@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+cryptography
+pytest
+fastapi
+uvicorn
+sqlalchemy
+cryptography
+passlib
+python-dotenv
+pydantic
+smtplib
+pytest

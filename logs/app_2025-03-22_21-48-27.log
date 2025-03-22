@@ -1,0 +1,7 @@
+2025-03-22 21:48:42 - [WARNING] - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python38\lib\site-packages\passlib\handlers\bcrypt.py", line 621, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-03-22 21:48:45 - [INFO] - Письмо успешно отправлено на 11212@mail.ru
+2025-03-22 21:48:45 - [INFO] - Пользователь admin1 успешно зарегистрирован
