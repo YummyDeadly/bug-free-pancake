@@ -23,7 +23,7 @@ pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_USER = "vagabondchannel033@gmail.com"
+EMAIL_USER = "1"
 EMAIL_PASS = "ehpmdpjkxexejdfa"
 
 logSer.setup_logging()
